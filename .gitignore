@@ -60,3 +60,7 @@ crashlytics-build.properties
 
 # information.txt
 information.txt
+Kametro/.vscode/*
+Kametro/Library/*
+Kametro/Logs/*
+Kametro/Packages/packages-lock.json
